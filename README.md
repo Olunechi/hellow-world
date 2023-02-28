@@ -1,2 +1,2 @@
 # hellow-world
-Repository for School
+Creators: Kenechi Ezekoye and Kiernan Devane
